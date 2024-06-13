@@ -31,7 +31,7 @@ Checkout the <a href="https://microchipsupport.force.com/s/" target="_blank">Tec
 
 ## 1. Introduction<a name="step1">
 
-This application demonstrates the use of an MICRF RX 2 CLICK as receiver using ASK Modulation interfaced with the WBZ451 Curiosity Board to control the RGB LED of the WBZ451 Curiosity board with the data received from the OOK TX CLICK.
+This application demonstrates the use of an MICRF RX 2 CLICK as receiver using OOK Modulation interfaced with the WBZ451 Curiosity Board to control the RGB LED of the WBZ451 Curiosity board with the data received from the OOK TX CLICK.
 
 ![](docs/Picture1.png)
 
@@ -201,9 +201,9 @@ BLE_GAP_SetDeviceAddr(&devAddr);
 - [app_ble_sensor.c](https://github.com/MicrochipTech/PIC32CXBZ2_WBZ45x_Sub-GHz_OOK_Tx_MICRF_Rx_2_Click_BLE_SENSOR/blob/main/WBZ451_MICRF_RX_2/firmware/src/app_ble_sensor.c)
 
 
-**Step 12** - To Know about the implimentation of ADC to RSSI conversion go to "firmware\src\MICRF220_219A\dvr_micrf220_219a.c" in your MPLAB Harmony v3 based application.
+**Step 12** - To Know about the implimentation of ADC to RSSI conversion go to "firmware\src\MICRF219A\dvr_micrf219a.c" in your MPLAB Harmony v3 based application.
 
-- [dvr_micrf220.c](https://github.com/MicrochipTech/PIC32CXBZ2_WBZ45x_Sub-GHz_OOK_Tx_MICRF_Rx_2_Click_BLE_SENSOR/blob/main/WBZ451_MICRF_RX_2/firmware/src/MICRF219A/dvr_micrf220.c)
+- [dvr_micrf219a.c](https://github.com/MicrochipTech/PIC32CXBZ2_WBZ45x_Sub-GHz_OOK_Tx_MICRF_Rx_2_Click_BLE_SENSOR/blob/main/WBZ451_MICRF_RX_2/firmware/src/MICRF219A/dvr_micrf219a.c)
 
 The RSSI values can be viewed in the COM PORT.
 

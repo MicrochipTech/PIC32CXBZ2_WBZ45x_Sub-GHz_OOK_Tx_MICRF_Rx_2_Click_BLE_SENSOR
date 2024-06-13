@@ -41,7 +41,7 @@ The above video shows the working of OOK TX CLICK(315 MHz) and MICRF RX 2 CLICK(
 
 ## 2. Contents<a name="step2">
 
-1. [WBZ451_OOK_TX](https://github.com/MicrochipTech/PIC32CXBZ2_WBZ45x_Sub-GHz_MICRF_Tx_MICRF_Rx_Click_BLE_SENSOR/tree/main/WBZ451_MICRF_TX)
+1. [WBZ451_OOK_TX](https://github.com/MicrochipTech/PIC32CXBZ2_WBZ45x_Sub-GHz_OOK_Tx_MICRF_Rx_2_Click_BLE_SENSOR/tree/main/WBZ451_OOK_TX)
 
-2. [WBZ451_MICRF_RX_2](https://github.com/MicrochipTech/PIC32CXBZ2_WBZ45x_Sub-GHz_MICRF_Tx_MICRF_Rx_Click_BLE_SENSOR/tree/main/WBZ451_MICRF_RX)
+2. [WBZ451_MICRF_RX_2](https://github.com/MicrochipTech/PIC32CXBZ2_WBZ45x_Sub-GHz_OOK_Tx_MICRF_Rx_2_Click_BLE_SENSOR/tree/main/WBZ451_MICRF_RX_2)
 
