@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>com.microchip.mplab.nbide.embedded.makeproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/make-project/1">
+            <name>WBZ451_MICRF_RX</name>
+            <creation-uuid>5d296192-25da-4734-91a8-aec4a09987f0</creation-uuid>
+            <make-project-type>0</make-project-type>
+            <sourceEncoding>ISO-8859-1</sourceEncoding>
+            <make-dep-projects/>
+            <sourceRootList>
+                <sourceRootElem>D:/svn/chimera/RTP_A2/H3/wireless_apps_pic32cxbz2_wbz45/apps/ble/advanced_applications/ble_sensor</sourceRootElem>
+                <sourceRootElem>D:\svn\chimera\RTP_A2\compare\wireless_apps_pic32cxbz2_wbz45\apps\ble\advanced_applications\ble_sensor\firmware\ble_sensor.X</sourceRootElem>
+                <sourceRootElem>../src/sensors</sourceRootElem>
+                <sourceRootElem>../src/MICRF220</sourceRootElem>
+                <sourceRootElem>../src/MICRF219A</sourceRootElem>
+            </sourceRootList>
+            <confList>
+                <confElem>
+                    <name>default</name>
+                    <type>2</type>
+                </confElem>
+            </confList>
+            <formatting>
+                <project-formatting-style>false</project-formatting-style>
+            </formatting>
+        </data>
+    </configuration>
+</project>

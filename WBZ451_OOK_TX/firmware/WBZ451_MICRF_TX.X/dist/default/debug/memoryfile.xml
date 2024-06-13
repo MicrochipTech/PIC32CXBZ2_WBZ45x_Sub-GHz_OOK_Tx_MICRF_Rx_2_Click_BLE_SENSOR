@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/debug/WBZ451_MICRF_TX.X.debug.elf">
+    <memory name="program">
+      <units>bytes</units>
+      <length>507392</length>
+      <used>173830</used>
+      <free>333562</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>130048</length>
+      <used>76040</used>
+      <free>54008</free>
+    </memory>
+  </executable>
+</project>
