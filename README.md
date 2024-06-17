@@ -26,7 +26,7 @@ Checkout the <a href="https://microchipsupport.force.com/s/" target="_blank">Tec
 
 ## 1. Introduction<a name="step1">
 
-This application demonstrates the use of an OOK TX CLICK as transmitter and MICRF RX 2 CLICK as receiver using ASK Modulation interfaced with the WBZ451 Curiosity board to control the RGB LED of the WBZ451 Curiosity board on receiver part. This LED can be controlled by Microchip Bluetooth Data [(MBD)](https://play.google.com/store/apps/details?id=com.microchip.bluetooth.data&hl=en_IN&gl=US) application through Bluetooth Low Energy (BLE) using [BLE Sensor application](https://github.com/Microchip-MPLAB-Harmony/wireless_apps_pic32cxbz2_wbz45/tree/master/apps/ble/advanced_applications/ble_sensor).
+This application demonstrates the use of an OOK TX CLICK as transmitter and MICRF RX 2 CLICK as receiver using OOK Modulation interfaced with the WBZ451 Curiosity board to control the RGB LED of the WBZ451 Curiosity board on receiver part. This LED can be controlled by Microchip Bluetooth Data [(MBD)](https://play.google.com/store/apps/details?id=com.microchip.bluetooth.data&hl=en_IN&gl=US) application through Bluetooth Low Energy (BLE) using [BLE Sensor application](https://github.com/Microchip-MPLAB-Harmony/wireless_apps_pic32cxbz2_wbz45/tree/master/apps/ble/advanced_applications/ble_sensor).
 
 ![](docs/Picture1.png)
 

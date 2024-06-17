@@ -46,6 +46,8 @@ This application demonstrates the use of an MICRF RX 2 CLICK as receiver using O
 
 - Connect the MICRF RX 2 CLICK BOARD with the WBZ451 CURIOSITY BOARD using the MIKROE BUS as shown below.
 
+- Don't connect the CLK pin of MICRF RX 2 Click to the WBZ451 Curiosity Board.
+
 ![](docs/micrf_1.png) ![](docs/micrf_2.png)
 
 ## 4. Software Setup<a name="step4">
